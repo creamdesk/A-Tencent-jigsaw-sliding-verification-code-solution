@@ -29,6 +29,8 @@
 #### 注意事项
 在使用该代码时，请特别注意以下几点：
 - 下载的图片与网页上显示的图片尺寸可能存在不一致的情况。因此，通常需要对OpenCV计算出的坐标进行等比例放大或缩小处理。
+- 要运行代码还需要安装firefox，并且配置Firefox WebDriver。
+- 该代码为半成品，一些部分还需要读者自定义。
 
 
 ### Project Description: T-Sec Tianyu Sliding Jigsaw Verification Code Automation Solution
